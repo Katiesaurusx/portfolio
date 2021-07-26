@@ -1,1 +1,2 @@
 added html and css pages
+started writing html code and layout
